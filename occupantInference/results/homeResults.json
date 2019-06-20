@@ -1,0 +1,70 @@
+{
+    "Lock_Status": "Locked",
+    "Occupants": [
+        {
+            "id": "0",
+            "name": "Brady"
+        },
+        {
+            "id": "1",
+            "name": "Amanda"
+        }
+    ],
+    "Smart_Switches": [
+        {
+            "id": "switch0",
+            "ip": "192.168.1.19",
+            "is_on": "on",
+            "name": "Bedroom Receiver"
+        },
+        {
+            "id": "switch1",
+            "ip": "192.168.1.24",
+            "is_on": "off",
+            "name": "Basement Lights"
+        },
+        {
+            "id": "switch2",
+            "ip": "192.168.1.26",
+            "is_on": "off",
+            "name": "Fishtank"
+        },
+        {
+            "id": "switch3",
+            "ip": "192.168.1.25",
+            "is_on": "on",
+            "name": "Closet Lights"
+        },
+        {
+            "id": "switch4",
+            "ip": "192.168.1.3",
+            "is_on": "off",
+            "name": "Basement Receiver"
+        },
+        {
+            "id": "switch5",
+            "ip": "192.168.1.12",
+            "is_on": "off",
+            "name": "Kitchen Lights"
+        },
+        {
+            "id": "switch6",
+            "ip": "192.168.1.11",
+            "is_on": "off",
+            "name": "Basement Screen"
+        },
+        {
+            "id": "switch7",
+            "ip": "192.168.1.30",
+            "is_on": "off",
+            "name": "Money Tree Lights"
+        },
+        {
+            "id": "switch8",
+            "ip": "192.168.1.21",
+            "is_on": "off",
+            "name": "Porch Lights"
+        }
+    ],
+    "Time_Updated": "Thursday, Jun 20, 2019 @ 11:16:27 AM"
+}
